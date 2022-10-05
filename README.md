@@ -6,7 +6,8 @@
 ## 1-Insertion Sort:
 ### Write the stages of the above given sequence according to the sort algorithm.
 
-<p>FIRST STEP:
+''' 
+FIRST STEP:
 Firstly we need the find least element --> "2"
 and after we need the swap "22" and "2"
 
@@ -39,7 +40,8 @@ We need the find least element again -->22
 But WE DONT NEED SWAP ANY ELEMENT.
 
 The  list has become:
-[2,6,16,18,22,27]</p>
+[2,6,16,18,22,27]
+'''
 
 ## 2-BIG-O:
 ### Write the Big-O notation.
