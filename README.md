@@ -1,0 +1,1 @@
+# patika_algoritmalar_proje1
